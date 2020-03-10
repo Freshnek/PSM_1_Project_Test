@@ -1,0 +1,22 @@
+{
+   "name": "CarsWeb",
+   "short_name": "CarsWeb",
+   "start_url": "index.html",
+   "display": "standalone",
+   "description": "Nasza pierwsza strona o samochodach",
+   "background_color": "#fdfdfd",
+   "theme_color": "#db4938",
+   "orientation": "portrait-primary",
+   "icons": [
+      {
+         "src": "images/icon192.png",
+         "sizes": "192x192",
+         "type": "image/png"
+      },
+      {
+         "src": "images/icon512.png",
+         "sizes": "512x512",
+         "type": "image/png"
+      }
+   ]
+}
